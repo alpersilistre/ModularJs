@@ -1,0 +1,14 @@
+{
+  "name": "modularjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "modularJS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alper Silistre",
+  "license": "MIT",
+  "dependencies": {
+    "mustache": "^2.2.1"
+  }
+}
