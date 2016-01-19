@@ -24,7 +24,8 @@
       this.$ul.html(Mustache.render(this.template, data));
     },
     addPerson: function addPerson(){
-      this.people.push(this.input.val());
+      this.people.push(this.$input.val());
+      this.render();
     }
     
   };
